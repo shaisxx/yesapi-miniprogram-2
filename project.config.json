@@ -9,8 +9,10 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "",
-	"appid": "wx9dd79889b1348c3a",
+	"appid": "wxddbe83489c508b5a",
 	"projectname": "mp-weixin",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
